@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="mailto:jonathanvargasb@outlook.com"><img src="https://img.shields.io/badge/Email-jonathanvargasb%40outlook.com-0A66C2?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" /></a>
-  <a href="https://linkedin.com/in/jonathanvrgb" target="blank"><img src="https://img.shields.io/badge/LinkedIn-jonathanvrgb-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/jonathanvargasb" target="blank"><img src="https://img.shields.io/badge/LinkedIn-jonathanvargasb-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/jonathanvrgb" target="blank"><img src="https://img.shields.io/badge/GitHub-jonathanvrgb-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
@@ -22,7 +22,6 @@ I combine backend engineering, product thinking and UI/UX execution to ship syst
 - 🚀 Founder/builder behind projects such as **Cition, Senatto, NodiaMind, DocFlow and mobility platforms**
 - 🏛️ Experienced with systems for **public sector operations, city management, legislative workflows and institutional platforms**
 - 💬 Ask me about **.NET, C#, PHP, MySQL, SaaS architecture, APIs, UI/UX, automation and product strategy**
-- 📫 Reach me at **jonathanvargasb@outlook.com**
 
 ---
 
