@@ -1,24 +1,101 @@
 <h1 align="center">Hi 👋, I'm Jonathan Vargas</h1>
-<h3 align="center">A passionate .NET developer from Brazil</h3>
+<h3 align="center">Senior Software Engineer · SaaS Builder · GovTech & Smart Cities Developer from Brazil</h3>
 
-<p align="left"> <a href="https://twitter.com/jonathanvrgb" target="blank"><img src="https://img.shields.io/twitter/follow/jonathanvrgb?logo=twitter&style=for-the-badge" alt="jonathanvrgb" /></a> </p>
-
-- 🔭 I’m currently working on **Mobility Solutions** and **Blockchain Solutions**
-
-- 🌱 I’m currently learning **Blockchain**
-
-- 👯 I’m looking to collaborate on **Blockchain and AI projects**
-
-- 💬 Ask me about **C#,.NET and Xamarin**
-
-- 📫 How to reach me **jonathanvargasb@outlook.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/jonathanvrgb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jonathanvrgb" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jonathanvrgb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jonathanvrgb" height="30" width="40" /></a>
-<a href="https://instagram.com/jonathanvrgb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jonathanvrgb" height="30" width="40" /></a>
+<p align="center">
+  <a href="mailto:jonathanvargasb@outlook.com"><img src="https://img.shields.io/badge/Email-jonathanvargasb%40outlook.com-0A66C2?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/jonathanvrgb" target="blank"><img src="https://img.shields.io/badge/LinkedIn-jonathanvrgb-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/jonathanvrgb" target="blank"><img src="https://img.shields.io/badge/GitHub-jonathanvrgb-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://bulma.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+---
+
+### About me
+
+I'm a senior developer focused on building real products, not just code.
+
+My work is centered on **SaaS platforms, GovTech, mobility systems, workflow automation, AI-powered tools and Smart Cities solutions**. I like products that solve concrete operational problems, improve public services and turn complex processes into clean, usable systems.
+
+I combine backend engineering, product thinking and UI/UX execution to ship systems that are practical, scalable and visually strong.
+
+- 🔭 Currently building products around **Smart Cities, legislative technology, document workflows, mobility and AI-assisted systems**
+- 🧠 Strong focus on **C#, .NET, PHP, MySQL, APIs, system architecture and product design**
+- 🚀 Founder/builder behind projects such as **Cition, Senatto, NodiaMind, DocFlow and mobility platforms**
+- 🏛️ Experienced with systems for **public sector operations, city management, legislative workflows and institutional platforms**
+- 💬 Ask me about **.NET, C#, PHP, MySQL, SaaS architecture, APIs, UI/UX, automation and product strategy**
+- 📫 Reach me at **jonathanvargasb@outlook.com**
+
+---
+
+### What I build
+
+<table>
+  <tr>
+    <td width="50%">
+      <h4>🏛️ GovTech & Smart Cities</h4>
+      <p>Digital platforms for public management, legislative sessions, political office workflows, transparency and operational efficiency.</p>
+    </td>
+    <td width="50%">
+      <h4>🚗 Mobility Systems</h4>
+      <p>Urban mobility applications, APIs, dashboards, driver/user apps and operational control systems.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h4>📄 Workflow Automation</h4>
+      <p>Document flow, approval processes, real-time monitoring screens, reports and internal productivity tools.</p>
+    </td>
+    <td width="50%">
+      <h4>🧠 AI & Knowledge Tools</h4>
+      <p>AI-assisted interfaces, code comparison tools, visual note systems, knowledge maps and intelligent product experiences.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### Core stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,php,laravel,js,ts,html,css,tailwind,bootstrap,mysql,sqlite,mongodb,docker,git,github,linux,aws,gcp,firebase,figma" alt="Core technologies" />
+</p>
+
+### Also familiar with
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=angular,react,nodejs,cpp,jenkins,selenium,sass,ps,xd,visualstudio,vscode" alt="Additional technologies" />
+</p>
+
+---
+
+### Technical focus
+
+- **Backend:** C#, .NET, PHP 8+, Laravel, REST APIs, authentication, integrations and automation
+- **Frontend:** Tailwind CSS, JavaScript, responsive UI, dashboards, interactive systems and premium product interfaces
+- **Databases:** MySQL/MariaDB, SQL Server, MongoDB and data modeling for operational systems
+- **DevOps & tooling:** Docker, Git/GitHub, Linux, Jenkins, cloud services and production-oriented delivery
+- **Product mindset:** usability, reliability, visual identity, conversion, maintainability and business impact
+
+---
+
+### GitHub stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jonathanvrgb&show_icons=true&theme=tokyonight&hide_border=true" alt="Jonathan Vargas GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanvrgb&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
+
+---
+
+### Connect with me
+
+<p align="left">
+  <a href="https://twitter.com/jonathanvrgb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jonathanvrgb" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/jonathanvrgb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jonathanvrgb" height="30" width="40" /></a>
+  <a href="https://instagram.com/jonathanvrgb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jonathanvrgb" height="30" width="40" /></a>
+</p>
+
+---
+
+<p align="center">
+  <strong>Building software with strategy, execution and real-world impact.</strong>
+</p>
