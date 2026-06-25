@@ -19,7 +19,7 @@ I combine backend engineering, product thinking and UI/UX execution to ship syst
 
 - 🔭 Currently building products around **Smart Cities, legislative technology, document workflows, mobility and AI-assisted systems**
 - 🧠 Strong focus on **C#, .NET, PHP, MySQL, APIs, system architecture and product design**
-- 🚀 Founder/builder behind projects such as **Cition, Senatto, NodiaMind, DocFlow and mobility platforms**
+- 🚀 Founder/builder behind projects such as **Cition, Senatto, NodiaMind, DocFlow, Noodlyst, ForeverTimeline and mobility platforms**
 - 🏛️ Experienced with systems for **public sector operations, city management, legislative workflows and institutional platforms**
 - 💬 Ask me about **.NET, C#, PHP, MySQL, SaaS architecture, APIs, UI/UX, automation and product strategy**
 
@@ -76,25 +76,9 @@ I combine backend engineering, product thinking and UI/UX execution to ship syst
 
 ---
 
-### GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jonathanvrgb&show_icons=true&theme=tokyonight&hide_border=true" alt="Jonathan Vargas GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanvrgb&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
-
----
-
 ### Connect with me
 
 <p align="left">
-  <a href="https://twitter.com/jonathanvrgb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jonathanvrgb" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/jonathanvrgb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jonathanvrgb" height="30" width="40" /></a>
-  <a href="https://instagram.com/jonathanvrgb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jonathanvrgb" height="30" width="40" /></a>
-</p>
-
----
-
-<p align="center">
-  <strong>Building software with strategy, execution and real-world impact.</strong>
+  <a href="https://linkedin.com/in/jonathanvargasb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jonathanvargasb" height="30" width="40" /></a>
+  <a href="https://instagram.com/jonathannnv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jonathannnv" height="30" width="40" /></a>
 </p>
